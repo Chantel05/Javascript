@@ -1,0 +1,15 @@
+{
+  "name": "ssx361_ct1_zwivhuya_chantel_tshusthu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.3.8"
+  },
+  "description": ""
+}
